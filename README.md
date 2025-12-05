@@ -16,3 +16,18 @@ All threats neutralized at time step 15.
 
 
 ![alt text](https://github.com/ykhorrami/RAAD/blob/main/1.png)
+
+
+
+RAAD Model Simulation Summary:
+----------------------
+
+Number of defense clusters: 3
+
+Total incoming threats: 40
+
+Pre-launch neutralized: 4
+
+Penetrated to targets: 2
+
+Attack/Defense cost ratio: 9.80
